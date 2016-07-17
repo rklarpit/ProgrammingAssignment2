@@ -22,7 +22,7 @@ i <- NULL
 
 ## Write a short comment describing this function
 ## This function will determine whether the matrix has already been
-##inverted pr not. If not then the appropriate funtion is called which
+##inverted or not. If not then the appropriate funtion is called which
 ##are defined in the makeCacheMatrix function and then use solve
 ##function to invert the matrix.
 cacheSolve <- function(x, ...) {
